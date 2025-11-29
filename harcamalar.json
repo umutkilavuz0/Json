@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Tavuk Dünyası",
+    "amount": 185.5,
+    "category": "Yemek",
+    "date": "2025-11-29"
+  },
+  {
+    "id": 2,
+    "description": "Starbucks",
+    "amount": 95.0,
+    "category": "İçecek",
+    "date": "2025-11-28"
+  },
+  {
+    "id": 3,
+    "description": "Migros Market",
+    "amount": 320.75,
+    "category": "Market",
+    "date": "2025-11-27"
+  }
+]
